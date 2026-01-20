@@ -55,4 +55,4 @@ Yes. Scroll Exit includes streaks, goals, insights, and sharable achievements to
 
 Scroll Exit — **Small exits. Big awareness.**
 
-© 2026 Scroll Exit Team
+© 2026 Melike Sultan Can & Kenan Can
