@@ -11,7 +11,7 @@ Instead of blocking apps, Scroll Exit encourages small, intentional breaks that 
 
 If you have questions, feedback, or need help, feel free to contact us anytime.
 
-**Email:** scrollexit.app@gmail.com  
+**Email:** melikesultan027@gmail.com  
 **GitHub Issues:** Please use the **Issues** tab in this repository for bug reports or feature requests.
 
 ---
