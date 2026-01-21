@@ -1,4 +1,4 @@
-# Scroll Exit Support Page 🇬🇧
+# Scroll Exit Support Page 
 
 Welcome to the official support page for the **Scroll Exit** app.
 
