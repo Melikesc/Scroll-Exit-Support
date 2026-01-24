@@ -12,35 +12,27 @@ The Application may request permission to access certain features of your device
 
 The Application does not collect precise location, device identifiers, contact information, browsing history, or analytics data.
 
-2. HealthKit Data
+2. Data Retention
 
-If Health Integration is enabled, the Application may:
-	•	Write scroll exit events as Mindful Minutes to Apple Health.
-	•	Read Mindful Minutes to display them within the Application.
-
-Health data accessed from HealthKit remains on-device and is not transmitted externally. We do not share, sell, analyze, or monetize Health data.
-
-3. Data Retention
-
-All data (including scroll exits, streaks, goals, and Health data mappings) is stored locally on the user’s device. Uninstalling the Application removes all such data.
+All data (including scroll exits, streaks, goals) is stored locally on the user’s device. Uninstalling the Application removes all such data.
 
 We do not retain any server copies of user data.
 
-4. Age Requirement
+3. Age Requirement
 
 The Application is intended for users aged 4 and above. The Application does not contain content categorized as harmful, offensive, or unsuitable for children. The Application does not require account creation or online interaction.
 
-5. Security
+4. Security
 
 Since no data is transmitted externally, the primary security boundary is the user’s device. We recommend keeping your device updated and secured.
 
-6. Changes to This Policy
+5. Changes to This Policy
 
 This Privacy Policy may be updated from time to time. Continued use of the Application constitutes acceptance of any modifications. The latest version will always be available through the Application or related support channels.
 
 Effective Date: 2026-01-20
 
-7. Contact Us
+6. Contact Us
 
 For privacy questions or requests, please contact:
 Email: melikesultan027@gmail.com
